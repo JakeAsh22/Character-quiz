@@ -1,0 +1,13 @@
+.endings {
+  display: none;
+}
+img{
+  width: 1000px;
+}
+#lord img{
+  width: auto;
+  height: 600px;
+}
+body{
+  background-color: MediumAquaMarine;
+}
